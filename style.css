@@ -90,6 +90,7 @@ nav {
 .avatar,
 .cart {
   cursor: pointer;
+  border-radius: 30px;
 }
 .avatar {
   width: 50px;
@@ -237,7 +238,7 @@ main {
   margin-left: 3rem;
 }
 .company {
-  color: var(--Orange);
+  color: var(--Very-dark-blue);
   text-transform: uppercase;
   font-weight: 700;
   margin-bottom: 1rem;
@@ -307,7 +308,7 @@ main {
   cursor: pointer;
   width: 65%;
   margin-left: 1rem;
-  background-color: var(--Orange);
+  background-color: var(--Very-dark-blue);
   color: white;
   font-weight: 700;
   display: flex;
